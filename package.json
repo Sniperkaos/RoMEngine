@@ -1,0 +1,23 @@
+{
+  "name": "romengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.69.0",
+    "@pixi/node": "^7.3.0",
+    "@waiting/shared-core": "^23.22.0",
+    "canvas": "^2.11.2",
+    "gl": "^8.1.0",
+    "jsdom": "^25.0.1",
+    "pixijs": "^7.1.4",
+    "qt": "^0.1.0",
+    "xvfb": "^0.4.0"
+  }
+}

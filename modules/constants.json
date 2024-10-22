@@ -1,0 +1,9 @@
+{
+    "CardReturnType": {
+        "SKIP" : 0
+    },
+    "SummonType": {
+        "CARD_SUMMON" : 10,
+        "NATURAL" : 11
+    }
+}

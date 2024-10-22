@@ -1,0 +1,14 @@
+{
+    "bundles": [
+        {
+            "name": "background",
+            "assets" : [
+                {
+                    "name": "wushu_style_background",
+                    "format": "jpg",
+                    "srcs": "background.jpg"
+                }
+            ]
+        }   
+    ]
+}
